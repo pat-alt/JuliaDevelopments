@@ -4,3 +4,4 @@ repo = "https://github.com/pat-alt/JuliaDevelopments.git"
 
 [packages]
 6ac2c632-c4cd-11e9-0501-33c4b9b2f9c9 = { name = "GenerativeModels", path = "G/GenerativeModels" }
+c52c1a26-f7c5-402b-80be-ba1e638ad478 = { name = "BayesLaplace", path = "B/BayesLaplace" }
