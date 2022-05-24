@@ -3,3 +3,4 @@ uuid = "1c7dd3c8-ba15-4eac-807d-6ffb51d4671c"
 repo = "https://github.com/pat-alt/JuliaDevelopments.git"
 
 [packages]
+6ac2c632-c4cd-11e9-0501-33c4b9b2f9c9 = { name = "GenerativeModels", path = "G/GenerativeModels" }
