@@ -1,0 +1,5 @@
+name = "JuliaDevelopments"
+uuid = "1c7dd3c8-ba15-4eac-807d-6ffb51d4671c"
+repo = "https://github.com/pat-alt/JuliaDevelopments.git"
+
+[packages]
