@@ -4,3 +4,4 @@ repo = "https://github.com/pat-alt/JuliaDevelopments.git"
 
 [packages]
 6ac2c632-c4cd-11e9-0501-33c4b9b2f9c9 = { name = "GenerativeModels", path = "G/GenerativeModels" }
+bd7198b4-c7d6-400c-9bab-9a24614b0240 = { name = "TaijaPlotting", path = "T/TaijaPlotting" }
